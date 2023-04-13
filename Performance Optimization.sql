@@ -12,7 +12,7 @@
 --- each customer, including the total number of orders, total revenue, average order value, and unique products purchased.
 
 --- 3- Join and Group By: Within the CTE, I have used an inner join to combine data from the orders and order_details tables
---- based on the order_id column, and then I have grouped the results by customer_id. 
+--- based on the order_id column, and then I grouped the results by customer_id. 
 --- This allows me to aggregate the data at the customer level and calculate the required metrics.
 
 --- 4- CASE Statements: The query uses two CASE statements to calculate additional metrics. The first CASE statement determines 
