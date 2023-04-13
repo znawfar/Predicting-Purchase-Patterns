@@ -36,7 +36,7 @@ Analyse the impact of discounts on customer behaviour metrics and optimize prici
 ### - Leverage seasonal trends:
 Utilize the insights from the time-series analysis to plan marketing campaigns during peak seasons, such as holidays or special events, to capture increased customer demand.
 
-## Conclusion:
+## Conclusion
 The data analysis project using advanced SQL techniques provided valuable insights into customer behaviour and purchase patterns for the e-commerce company. The findings highlighted the importance of customer segmentation, customer behaviour metrics analysis, and purchase pattern prediction in optimizing marketing strategies and improving customer retention. The recommendations provided can help the company make data-driven decisions to enhance customer engagement, boost sales, and achieve business objectives.
 
 
