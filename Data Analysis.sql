@@ -1,5 +1,5 @@
 
---- *** Step four: Data Analysis ***
+--- *** Step three: Data Analysis ***
 
 --- I would use advanced SQL techniques, including window functions, subqueries, stored procedures, and views,
 --- to perform data analysis tasks on the given dataset for the project topic of analyzing customer behaviour and
