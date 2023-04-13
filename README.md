@@ -1,6 +1,7 @@
 # Customer Insights: Predicting Purchase Patterns with SQL
 
 
+
 ## Summary
 In today's highly competitive e-commerce industry, understanding customer behaviour and predicting purchase patterns are crucial for businesses to optimize marketing strategies, improve customer retention, and boost sales. This report presents the findings of a data analysis project that utilized advanced SQL techniques to analyse a large dataset of customer transactions from an e-commerce company. The project aimed to identify key customer segments, analyse customer behaviour metrics, predict future purchase patterns, and provide recommendations for optimizing marketing strategies based on data-driven insights.
 
@@ -38,3 +39,26 @@ Utilize the insights from the time-series analysis to plan marketing campaigns d
 ## Conclusion:
 The data analysis project using advanced SQL techniques provided valuable insights into customer behaviour and purchase patterns for the e-commerce company. The findings highlighted the importance of customer segmentation, customer behaviour metrics analysis, and purchase pattern prediction in optimizing marketing strategies and improving customer retention. The recommendations provided can help the company make data-driven decisions to enhance customer engagement, boost sales, and achieve business objectives.
 
+
+
+
+
+## Appendix 
+
+
+The dataset that has been used consists of transactional data from an e-commerce company, including information about customer purchases, product details, and order history. 
+
+### Dataset Columns:
+- Customer ID: Unique identifier for each customer.
+- Order ID: Unique identifier for each order.
+- Product ID: Unique identifier for each product.
+- Order Date: Date when the order was placed.
+- Product Name: Name of the product purchased.
+- Product Category: Category of the product (e.g., electronics, clothing, home decor).
+- Quantity: Number of units of the product purchased.
+- Price: Price of the product.
+- Discount: Discount applied to the product.
+- Total Amount: Total amount of the order after applying discounts.
+- Payment Method: Method of payment used for the order.
+- Shipping Country: Country where the order was shipped.  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
