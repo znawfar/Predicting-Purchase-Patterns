@@ -2,6 +2,7 @@
 
 
 
+
 ## Summary
 In today's highly competitive e-commerce industry, understanding customer behaviour and predicting purchase patterns are crucial for businesses to optimize marketing strategies, improve customer retention, and boost sales. This report presents the findings of a data analysis project that utilized advanced SQL techniques to analyse a large dataset of customer transactions from an e-commerce company. The project aimed to identify key customer segments, analyse customer behaviour metrics, predict future purchase patterns, and provide recommendations for optimizing marketing strategies based on data-driven insights.
 
