@@ -114,3 +114,4 @@ DELIMITER ;
 CALL segment_customers();
 
 
+
