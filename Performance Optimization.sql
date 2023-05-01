@@ -68,3 +68,4 @@ FROM
     customer_order_metrics
 ORDER BY
     total_revenue DESC;
+    
