@@ -65,4 +65,3 @@ SET total_amount = (
 )
 WHERE transaction_id IN (SELECT transaction_id FROM outliers);
 
-
